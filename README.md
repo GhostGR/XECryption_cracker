@@ -2,6 +2,7 @@
 Is a script that cracks XECryption encrypted messege.
 
 HOW TO USE
+
   1) Start the script (requires python 3)
   2) Input the encrypted text file path
   3) press ENTER
