@@ -9,8 +9,9 @@ Is a script that cracks XECryption encrypted messege.
 
   
 #### VERSIONS
-V1.0
-  This version only contains the basic functions.
+**V1.0** : This version only contains the basic functions.  
+**V2.0** : In this version the script is split to two files the main file  
+           the class file. Also the UI has improved
 
 
 ### !!!DISCLAIMER!!! 
