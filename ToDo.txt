@@ -1,0 +1,7 @@
+                              ToDo list
+=========================================================================
+1) Decrypt function
+2) Encrypt function
+3) show key value when cracking
+4) Make common character easily configurable by user
+5) Add exceptions and error codes
