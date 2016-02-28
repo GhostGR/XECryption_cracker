@@ -1,11 +1,12 @@
 # Xecryptor
 # Copyright (c) 2015 Lykourgos Tanious
 # Read LICENCE.txt
-# XeCryptor cracker by most common character
 # !!! THIS TOOL IS ONLY FOR EDUCATIONAL PURPOSES !!!
-# creator   : Lykourgos Tanious
-# date      : 09/02/2016
-# Version   : V2.0
+# Description :     This script contains the main class for
+#               cracking XEcryption encrypted files.
+# Author      : Lykourgos Tanious
+# date        : 09/02/2016
+# Version     : V2.0
 
 
 class XEcracker:
